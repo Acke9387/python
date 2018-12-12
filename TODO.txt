@@ -1,3 +1,20 @@
-1. Jupyer Kernel Not Currently Live
+TO-DO List For Completion:
 
-2. Support For Input Needs To Be Added
+  1. Run Kernel From Server So Constantly Live
+  
+  2. Add Support For User Code Input
+  
+  3. Break The .ipynb Files Up Into Sections:
+  
+    *Basic Python Learning
+    *Using Python For Data Analysis With Pandas
+    *Using Numpy/Scipy For Performing Operations
+    *Using Python For Networking
+    *Parallel Programming
+    
+  
+   
+    
+    
+  
+
