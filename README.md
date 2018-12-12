@@ -3,7 +3,11 @@ This Repository Provides A List Of .ipynb Files For Educational Purposes. The In
 Follow Along With The Notebook While Reproducing The Code In Their Own .ipynb Notebook. For All Files That Require External Resources
 There Is Detailed Instructions For Installation With Both pip install & sys.executable So Anyone Using The Jupyter Notebook via Jupyters Online Notebook Will Be Able To Use The Necassary Modules. 
 
-To Use Each Lesson Interactively, Copy and Paste This LinK: 
+To Use Each Lesson Interactively, Copy and Paste Repository URL To Binder. Launch The Binder With The Correct URL. This Will Give Full Access To Everything In The Binder. The Following Are All Of The Links That Will Be Needed.
+
+Binder (beta) URL: https://mybinder.org/
+
+Repository URL: https://github.com/Acke9387/python
 
 ## Topics Covered
 1. Basic Python 101
