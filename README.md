@@ -15,7 +15,7 @@ There Is Detailed Instructions For Installation With Both pip install & sys.exec
   * Using numpy For Vector Operations
   * General Array Broadcasting With Simple Indexing Techniques
   Not Yet Added:
-  * DPS and Analog Signal Filtering
+  * DSP and Analog Signal Filtering
   * Advanced Numpy
   
 3. Python W/ Pandas
