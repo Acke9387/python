@@ -3,6 +3,8 @@ This Repository Provides A List Of .ipynb Files For Educational Purposes. The In
 Follow Along With The Notebook While Reproducing The Code In Their Own .ipynb Notebook. For All Files That Require External Resources
 There Is Detailed Instructions For Installation With Both pip install & sys.executable So Anyone Using The Jupyter Notebook via Jupyters Online Notebook Will Be Able To Use The Necassary Modules. 
 
+To Use Each Lesson Interactively, Copy and Paste This LinK: 
+
 ## Topics Covered
 1. Basic Python 101
   * Variables and Datatypes
