@@ -9,17 +9,19 @@ There Is Detailed Instructions For Installation With Both pip install & sys.exec
   * Operators
   * Conditional Statements
   * Loops
+  * Defining Functions
   * Exception Handling
   
-2. Intro to  Advanced Numpy/Scipy
+2. From Beginner To Advanced Numpy/Scipy
   * Using numpy For Vector Operations
   * General Array Broadcasting With Simple Indexing Techniques
   Not Yet Added:
   * DSP and Analog Signal Filtering
   * Advanced Numpy
   
-3. Python W/ Pandas
+3. Python W/ Pandas & Matplotlib
   * Using Pandas For Data Analysis via Stock Data. 
+  * Graphing Using Matplotlib
  
 
 
