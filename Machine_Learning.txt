@@ -1,0 +1,8 @@
+Template For Machine Learning Lesson
+
+Took Longer To Train Model Than I Thought But Its Finished 
+
+Uses High Amount Of RAM
+
+Not Sure If It Will Run In Browser Of Jupyters Notebook So Ill Look Into That
+
