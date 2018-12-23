@@ -1,8 +1,6 @@
-Template For Machine Learning Lesson
+The Following Lesson On Building Deep Learning Models For Machine Learning Will Require A Few Libraries Before Installation
 
-Took Longer To Train Model Than I Thought But Its Finished 
+A C++ compiler or GNU "g++" Will Be Needed At Some Point When Google Updates Theanos 
+Can Be Compiled On Linux/Windows/Unix
 
-Uses High Amount Of RAM
-
-Not Sure If It Will Run In Browser Of Jupyters Notebook So Ill Look Into That
 
