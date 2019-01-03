@@ -1,3 +1,7 @@
+**Note: The pymc3 Model has some stuff in it that i did not mean to include. If you could just make sure there are no random pull requests for it that would be great thank you
+
+
+
 # Programming In Python
 This Repository Provides A List Of .ipynb Files For Educational Purposes. The Intended Use Of This Is For Those Learning Python To 
 Follow Along With The Notebook While Reproducing The Code In Their Own .ipynb Notebook. For All Files That Require External Resources
